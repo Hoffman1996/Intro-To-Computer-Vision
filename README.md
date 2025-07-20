@@ -1,6 +1,6 @@
-# Final Project – Introduction to Computer Vision (Course 10224, 2025)
+# Final Project – Introduction to Computer Vision
 
-This project represents the culmination of the knowledge and practical skills gained throughout the **Introduction to Computer Vision** course. It challenged students to implement a full end-to-end object detection pipeline under real-world constraints, with an emphasis on dataset creation, model training, and performance evaluation.
+This project represents the culmination of the knowledge and practical skills gained throughout the **Introduction to Computer Vision** course. It challenged me to implement a full end-to-end object detection pipeline under real-world constraints, with an emphasis on dataset creation, model training, and performance evaluation.
 
 ### Project Summary
 
@@ -8,14 +8,7 @@ The core objective was to **train an object detection model without relying on h
 - `person`  
 - `pet` (defined as the union of `dog`, `cat`, and `horse`)
 
-A smaller model—chosen from architectures such as YOLO, Faster R-CNN, RetinaNet, or EfficientDet—was then trained using this synthetic dataset, with additional augmentations applied to improve generalization. The project also discussed how **Test-Time Augmentations (TTA)** and **ensemble methods** could be used to validate the generated dataset, though their implementation was not required.
-
-### Deliverables Included:
-- Custom object detection dataset with Florence-2-generated labels
-- Python code for training, inference, and dataset generation
-- Trained model weights
-- Slide deck explaining the problem, approach, and results
-- A 5-minute explanatory video walkthrough of the project
+A smaller model — chosen from architectures such as YOLO, Faster R-CNN, RetinaNet, or EfficientDet—was then trained using this synthetic dataset, with additional augmentations applied to improve generalization. The project also discussed how **Test-Time Augmentations (TTA)** and **ensemble methods** could be used to validate the generated dataset, though their implementation was not required.
 
 ### Key Learning Outcomes
 - Gained hands-on experience with **self-supervised dataset creation**
