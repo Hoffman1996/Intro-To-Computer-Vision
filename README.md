@@ -8,7 +8,7 @@ The core objective was to **train an object detection model without relying on h
 - `person`  
 - `pet` (defined as the union of `dog`, `cat`, and `horse`)
 
-A smaller model — chosen from architectures such as YOLO, Faster R-CNN, RetinaNet, or EfficientDet—was then trained using this synthetic dataset, with additional augmentations applied to improve generalization. The project also discussed how **Test-Time Augmentations (TTA)** and **ensemble methods** could be used to validate the generated dataset, though their implementation was not required.
+A smaller model — chosen from architectures such as YOLO, Faster R-CNN, RetinaNet, or EfficientDet — was then trained using this synthetic dataset, with additional augmentations applied to improve generalization. The project also discussed how **Test-Time Augmentations (TTA)** and **ensemble methods** could be used to validate the generated dataset, though their implementation was not required.
 
 ### Key Learning Outcomes
 - Gained hands-on experience with **self-supervised dataset creation**
