@@ -14,5 +14,5 @@ A smaller model — chosen from architectures such as YOLO, Faster R-CNN, Retina
 - Gained hands-on experience with **self-supervised dataset creation**
 - Understood trade-offs in object detection architecture and framework selection
 - Learned to use modern tools like **Detectron2**, **MMDetection**, and **YOLO (Ultralytics)**
-- Practiced model evaluation using metrics such as **mAP@50 and mAP@50-95**
+- Practiced model evaluation using metrics such as **mAP50 and mAP50-95**
 - Reflected on dataset quality, model robustness, and areas for future improvement
